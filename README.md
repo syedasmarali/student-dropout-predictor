@@ -1,7 +1,7 @@
 # Student Dropout Prediction
 
 This project focuses on contains a comprehensive analysis of factors influencing student dropout rates in secondary education. It includes demographic information, academic performance, and social conditions that may contribute to a student's likelihood of dropping out.
-Logistic regression model has been implemented to predict the dropout percentage with the help of Python. Moreover, a streamlit dashboard has also been developed to visualize the prediction and overall predicted model perfromance.
+Logistic regression model has been implemented to predict the dropout percentage with the help of Python. Moreover, a streamlit dashboard has also been developed to visualize the prediction and overall predicted model performance.
 
 ## Project Overview
 
