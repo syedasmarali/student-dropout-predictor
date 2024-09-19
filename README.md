@@ -6,7 +6,7 @@ Logictic regression model has been implemented to predict the dropout percentage
 ## Project Overview
 
 - **Independent Variables**:
-A total of 34 independent variables have been incorporated into the prediction analysis. 
+- A total of 34 independent variables have been incorporated into the prediction analysis. 
   - School: Name of the school attended (e.g., MS).
   - Gender: Gender of the student (e.g., M for Male, F for Female).
   - Age: Age of the student.
