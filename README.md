@@ -90,7 +90,7 @@ Logictic regression model has been implemented to predict the dropout percentage
   streamlit run src/app.py
 
 
-## Techhnologies Used
+## Technologies Used
 
 - Python: For data analysis and logistic regression model.
 - Streamlit: For building the web app and creating the dashboard.
